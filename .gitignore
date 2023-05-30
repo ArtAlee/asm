@@ -5,7 +5,7 @@
 *.bc
 *.out
 
-
+.DS_Store
 
 
 
